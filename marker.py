@@ -5,6 +5,7 @@ class Marker:
         self.long = long
         self.lat = lat
         self.id = id
+        self.pull = 1
     
     def insertMarker(marker):
         pass
